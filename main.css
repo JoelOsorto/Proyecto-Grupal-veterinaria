@@ -57,6 +57,7 @@ nav ul li a {
 .imagenes img:hover {
     transform: scale(1.1);
 }
+
 /* Pie de página */
 footer {
     background-color: #333;
@@ -93,4 +94,29 @@ p {
     border-radius: 10px;
     border: 2px solid #4caf50;
     transition: transform 0.3s;
+}
+
+.imagenes-veterinarios img:hover {
+    transform: scale(1.1);
+}
+
+h2 {
+    text-align: center;
+}
+
+div#separar{
+
+    border: 3px solid #bbc4cc;
+    padding: 50px;
+    position: relative;
+    display: flow-root;
+    margin: 30px;
+}
+
+.parrafo {
+    text-align: center;
+    font-size: 20px;
+    color:#333;
+    margin: 100px;
+    
 }
