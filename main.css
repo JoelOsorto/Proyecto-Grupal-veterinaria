@@ -1,0 +1,15 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color: #bbc4cc;
+}
+
+/* Encabezado */
+header {
+    background-color: #4caf50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
